@@ -7,6 +7,7 @@
 <br>
 😄 Find me on <a href="www.linkedin.com/in/seppe-van-opstal/">Linkedin</a><br><br>
 <strong>🚀 My Latest Update :</strong><br><br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seppevo&repo=Seppevo&theme=radical)](https://github.com/Seppevo/Seppevo)
 </div>
 
