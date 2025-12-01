@@ -1,16 +1,17 @@
-## Hi there 👋
+# <h1 align="center">Hi, I'm Seppevo</h1>
 
-<!--
-**Seppevo/Seppevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<strong>About Me:</strong><br>
+💻 I’m currently a second-year Applied Computer Science student at HoGent<br>
+📚 I'm focusing on IT infrastructure and cybersecurity.<br>
+  
+😄 Find me on <a href="www.linkedin.com/in/seppe-van-opstal/">Linkedin</a><br><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>🚀 My Latest Update :</strong><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seppevo&repo=Seppevo&theme=radical)](https://github.com/Seppevo/Seppevo)
+</div>
+
+------
+Credit: [Kathryn-Jie](https://github.com/Seppevo)
+Last Edited on: 01/12/2025
